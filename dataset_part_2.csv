@@ -1,215 +1,91 @@
-FlightNumber,Date,BoosterVersion,LaunchSite,Payload,PayloadMass,Orbit,Customer,Launch outcome,Booster landing
-1,4 June 2010,F9 v1.0B0003.1,CCAFS,Dragon Spacecraft Qualification Unit,0,LEO,,"Success
-",Failure
-2,8 December 2010,F9 v1.0B0004.1,CCAFS,Dragon,0,LEO,,Success,Failure
-3,22 May 2012,F9 v1.0B0005.1,CCAFS,Dragon,525 kg,LEO,,Success,"No attempt
-"
-4,8 October 2012,F9 v1.0B0006.1,CCAFS,SpaceX CRS-1,"4,700 kg",LEO,,"Success
-",No attempt
-5,1 March 2013,F9 v1.0B0007.1,CCAFS,SpaceX CRS-2,"4,877 kg",LEO,,"Success
-","No attempt
-"
-6,29 September 2013,F9 v1.1B1003,VAFB,CASSIOPE,500 kg,Polar orbit,,Success,Uncontrolled
-7,3 December 2013,F9 v1.1,CCAFS,SES-8,"3,170 kg",GTO,,Success,No attempt
-8,6 January 2014,F9 v1.1,CCAFS,Thaicom 6,"3,325 kg",GTO,,Success,No attempt
-9,18 April 2014,F9 v1.1,Cape Canaveral,SpaceX CRS-3,"2,296 kg",LEO,,"Success
-",Controlled
-10,14 July 2014,F9 v1.1,Cape Canaveral,Orbcomm-OG2,"1,316 kg",LEO,,Success,Controlled
-11,5 August 2014,F9 v1.1,Cape Canaveral,AsiaSat 8,"4,535 kg",GTO,,Success,No attempt
-12,7 September 2014,F9 v1.1,Cape Canaveral,AsiaSat 6,"4,428 kg",GTO,,Success,"No attempt
-"
-13,21 September 2014,F9 v1.1,Cape Canaveral,SpaceX CRS-4,"2,216 kg",LEO,,Success,Uncontrolled
-14,10 January 2015,F9 v1.1,Cape Canaveral,SpaceX CRS-5,"2,395 kg",LEO,,Success,Failure 
-15,11 February 2015,F9 v1.1,Cape Canaveral,DSCOVR,570 kg,HEO,,"Success
-",Controlled
-16,2 March 2015,F9 v1.1,Cape Canaveral,ABS-3A,"4,159 kg",GTO,,"Success
-",No attempt
-17,14 April 2015,F9 v1.1,Cape Canaveral,SpaceX CRS-6,"1,898 kg",LEO,,"Success
-",Failure
-18,27 April 2015,F9 v1.1,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,,"Success
-",No attempt
-19,28 June 2015,F9 v1.1,Cape Canaveral,SpaceX CRS-7,"1,952 kg",LEO,,Failure,Precluded
-20,22 December 2015,F9 FT,Cape Canaveral,Orbcomm-OG2,"2,034 kg",LEO,,"Success
-",Success
-21,17 January 2016,F9 v1.1,VAFB,Jason-3,553 kg,LEO,,"Success
-",Failure
-22,4 March 2016,F9 FT,Cape Canaveral,SES-9,"5,271 kg",GTO,,"Success
-",Failure
-23,8 April 2016,F9 FT,Cape Canaveral,SpaceX CRS-8,"3,136 kg",LEO,,Success,Success
-24,6 May 2016,F9 FT,Cape Canaveral,JCSAT-14,"4,696 kg",GTO,,"Success
-",Success
-25,27 May 2016,F9 FT,Cape Canaveral,Thaicom 8,"3,100 kg",GTO,,"Success
-",Success
-26,15 June 2016,F9 FT,Cape Canaveral,ABS-2A,"3,600 kg",GTO,,"Success
-",Failure
-27,18 July 2016,F9 FT,Cape Canaveral,SpaceX CRS-9,"2,257 kg",LEO,,"Success
-",Success
-28,14 August 2016,F9 FT,Cape Canaveral,JCSAT-16,"4,600 kg",GTO,,"Success
-",Success
-29,14 January 2017,F9 FT,VAFB,Iridium NEXT,"9,600 kg",Polar,,"Success
-",Success
-30,19 February 2017,F9 FT,KSC,SpaceX CRS-10,"2,490 kg",LEO,,"Success
-",Success
-31,16 March 2017,F9 FT,KSC,EchoStar 23,"5,600 kg",GTO,,"Success
-",No attempt
-32,30 March 2017,F9 FT♺,KSC,SES-10,"5,300 kg",GTO,,Success,Success
-33,1 May 2017,F9 FT,KSC,NROL-76,C,LEO,,"Success
-",Success
-34,15 May 2017,F9 FT,KSC,Inmarsat-5 F4,"6,070 kg",GTO,,"Success
-",No attempt
-35,3 June 2017,F9 FT,KSC,SpaceX CRS-11,"2,708 kg",LEO,,"Success
-",Success
-36,23 June 2017,F9 FTB1029.2,KSC,BulgariaSat-1,"3,669 kg",GTO,,"Success
-",Success
-37,25 June 2017,F9 FT,VAFB,Iridium NEXT,"9,600 kg",LEO,,"Success
-",Success
-38,5 July 2017,F9 FT,KSC,Intelsat 35e,"6,761 kg",GTO,,"Success
-",No attempt
-39,14 August 2017,F9 B4,KSC,SpaceX CRS-12,"3,310 kg",LEO,,"Success
-",Success
-40,24 August 2017,F9 FT,VAFB,Formosat-5,475 kg,SSO,,"Success
-",Success
-41,7 September 2017,F9 B4,KSC,Boeing X-37B,"4,990 kg",LEO,,"Success
-",Success
-42,9 October 2017,F9 B4,VAFB,Iridium NEXT,"9,600 kg",Polar,,"Success
-",Success
-43,11 October 2017,F9 FTB1031.2,KSC,SES-11,"5,200 kg",GTO,,"Success
-",Success
-44,30 October 2017,F9 B4,KSC,Koreasat 5A,"3,500 kg",GTO,,"Success
-",Success
-45,15 December 2017,F9 FTB1035.2,Cape Canaveral,SpaceX CRS-13,"2,205 kg",LEO,,"Success
-",Success
-46,23 December 2017,F9 FTB1036.2,VAFB,Iridium NEXT,"9,600 kg",Polar,,Success,Controlled
-47,8 January 2018,F9 B4,CCAFS,Zuma,C,LEO,,Success,Success
-48,31 January 2018,F9 FTB1032.2,CCAFS,GovSat-1,"4,230 kg",GTO,,Success,Controlled
-49,22 February 2018,F9 FTB1038.2,VAFB,Paz,"2,150 kg",SSO,,Success,No attempt
-50,6 March 2018,F9 B4,CCAFS,Hispasat 30W-6,"6,092 kg",GTO,,Success,No attempt
-51,30 March 2018,F9 B4B1041.2,VAFB,Iridium NEXT,"9,600 kg",Polar,,Success,No attempt
-52,2 April 2018,F9 B4B1039.2,CCAFS,SpaceX CRS-14,"2,647 kg",LEO,,Success,No attempt
-53,18 April 2018,F9 B4,CCAFS,Transiting Exoplanet Survey Satellite,362 kg,HEO,,Success,Success
-54,11 May 2018,F9 B5B1046.1,KSC,Bangabandhu-1,"3,600 kg",GTO,,Success,Success
-55,22 May 2018,F9 B4B1043.2,VAFB,Iridium NEXT,"6,460 kg",Polar,,Success,No attempt
-56,4 June 2018,F9 B4B1040.2,CCAFS,SES-12,"5,384 kg",GTO,,Success,No attempt
-57,29 June 2018,F9 B4B1045.2,CCAFS,SpaceX CRS-15,"2,697 kg",LEO,,Success,No attempt
-58,22 July 2018,F9 B5,CCAFS,Telstar 19V,"7,075 kg",GTO,,Success,Success
-59,25 July 2018,F9 B5B1048,VAFB,Iridium NEXT,"9,600 kg",Polar,,Success,Success
-60,7 August 2018,F9 B5B1046.2,CCAFS,Merah Putih,"5,800 kg",GTO,,Success,Success
-61,10 September 2018,F9 B5,CCAFS,Telstar 18V,"7,060 kg",GTO,,Success,Success
-62,8 October 2018,F9 B5B1048.2,VAFB,SAOCOM 1A,"3,000 kg",SSO,,Success,Success
-63,15 November 2018,F9 B5B1047.2,KSC,Es'hail 2,"5,300 kg",GTO,,Success,Success
-64,3 December 2018,F9 B5B1046.3,VAFB,SSO-A,"~4,000 kg",SSO,,Success,Success
-65,5 December 2018,F9 B5,CCAFS,SpaceX CRS-16,"2,500 kg",LEO,,"Success
-",Failure
-66,23 December 2018,F9 B5,CCAFS,GPS III,"4,400 kg",MEO,,Success,No attempt
-67,11 January 2019,F9 B5B1049.2,VAFB,Iridium NEXT,"9,600 kg",Polar,,"Success
-",Success
-68,22 February 2019,F9 B5B1048.3,CCAFS,Nusantara Satu,"4,850 kg",GTO,,"Success
-",Success
-69,2 March 2019,F9 B5[268],KSC,Crew Dragon Demo-1,"12,055 kg",LEO,,"Success
-",Success
-70,4 May 2019,F9 B5,CCAFS,SpaceX CRS-17,"2,495 kg",LEO,,"Success
-",Success
-71,24 May 2019,F9 B5B1049.3,CCAFS,Starlink,"13,620 kg",LEO,,"Success
-",Success
-72,12 June 2019,F9 B5B1051.2,VAFB,RADARSAT Constellation,"4,200 kg",SSO,,"Success
-",Success
-73,25 July 2019,F9 B5B1056.2,CCAFS,SpaceX CRS-18,"2,268 kg",LEO,,"Success
-",Success
-74,6 August 2019,F9 B5B1047.3,CCAFS,AMOS-17,"6,500 kg",GTO,,"Success
-",No attempt
-75,11 November 2019,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-76,5 December 2019,F9 B5,CCAFS,SpaceX CRS-19,"2,617 kg",LEO,,"Success
-",Success
-77,17 December 2019,F9 B5B1056.3,CCAFS,JCSat-18,"6,956 kg",GTO,,"Success
-",Success
-78,7 January 2020,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-79,19 January 2020,F9 B5,KSC,Crew Dragon in-flight abort test,"12,050 kg",Sub-orbital,,"Success
-","No attempt
-"
-80,29 January 2020,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-81,17 February 2020,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Failure
-82,7 March 2020,F9 B5,CCAFS,SpaceX CRS-20,"1,977 kg",LEO,,"Success
-",Success
-83,18 March 2020,F9 B5,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Failure
-84,22 April 2020,F9 B5,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-85,30 May 2020,F9 B5,KSC,Crew Dragon Demo-2,"12,530 kg",LEO,,"Success
-",Success
-86,4 June 2020,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-87,13 June 2020,F9 B5,CCAFS,Starlink,"15,410 kg",LEO,,"Success
-",Success
-88,30 June 2020,F9 B5,CCAFS,GPS III,"4,311 kg",MEO,,"Success
-",Success
-89,20 July 2020,F9 B5B1058.2,CCAFS,ANASIS-II,"5,000–6,000 kg",GTO,,"Success
-",Success
-90,7 August 2020,F9 B5,KSC,Starlink,"14,932 kg",LEO,,"Success
-",Success
-91,18 August 2020,F9 B5B1049.6,CCAFS,Starlink,"~15,440 kg",LEO,,"Success
-",Success
-92,30 August 2020,F9 B5,CCAFS,SAOCOM 1B,"3,130 kg",SSO,,"Success
-",Success
-93,3 September 2020,F9 B5B1060.2,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-94,6 October 2020,F9 B5B1058.3,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-95,18 October 2020,F9 B5B1051.6,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-96,24 October 2020,F9 B5,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-97,5 November 2020,F9 B5,CCAFS,GPS III,"4,311 kg",MEO,,"Success
-",Success
-98,16 November 2020,F9 B5,KSC,Crew-1,"~12,500 kg",LEO,,"Success
-",Success
-99,21 November 2020,F9 B5,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),"1,192 kg",LEO,,"Success
-",Success
-100,25 November 2020,F9 B5 ♺,CCAFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-101,6 December 2020,F9 B5 ♺,KSC,SpaceX CRS-21,"2,972 kg",LEO,,"Success
-",Success
-102,13 December 2020,F9 B5 ♺,CCSFS,SXM-7,"7,000 kg",GTO,,"Success
-",Success
-103,19 December 2020,F9 B5 ♺,KSC,NROL-108,C,LEO,,"Success
-",Success
-104,8 January 2021,F9 B5,CCSFS,Türksat 5A,"3,500 kg",GTO,,"Success
-",Success
-105,20 January 2021,F9 B5B1051.8,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-106,24 January 2021,F9 B5B1058.5,CCSFS,Transporter-1,"~5,000 kg",SSO,"Various
-","Success
-",Success
-107,4 February 2021,F9 B5 ♺,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-108,16 February 2021,F9 B5 ♺,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Failure
-109,4 March 2021,F9 B5 ♺,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-110,11 March 2021,F9 B5 ♺,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-111,14 March 2021,F9 B5 ♺,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-112,24 March 2021,F9 B5B1060.6,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-113,7 April 2021,F9 B5 ♺,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-114,23 April 2021,F9 B5B1061.2,KSC,Crew-2,"~13,000 kg",LEO,,"Success
-",Success
-115,29 April 2021,F9 B5B1060.7,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-116,4 May 2021,F9 B5B1049.9,KSC,Starlink,"15,600 kg",LEO,,"Success
-",Success
-117,9 May 2021,F9 B5B1051.10,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-118,15 May 2021,F9 B5B1058.8,KSC,Starlink,"~14,000 kg",LEO,,"Success
-",Success
-119,26 May 2021,F9 B5B1063.2,CCSFS,Starlink,"15,600 kg",LEO,,"Success
-",Success
-120,3 June 2021,F9 B5B1067.1,KSC,SpaceX CRS-22,"3,328 kg",LEO,,"Success
-",Success
-121,6 June 2021,F9 B5,CCSFS,SXM-8,"7,000 kg",GTO,,"Success
-",Success
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Outcome,Flights,GridFins,Reused,Legs,LandingPad,Block,ReusedCount,Serial,Longitude,Latitude,Class
+1,2010-06-04,Falcon 9,6104.959411764706,LEO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B0003,-80.577366,28.5618571,0
+2,2012-05-22,Falcon 9,525.0,LEO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B0005,-80.577366,28.5618571,0
+3,2013-03-01,Falcon 9,677.0,ISS,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B0007,-80.577366,28.5618571,0
+4,2013-09-29,Falcon 9,500.0,PO,VAFB SLC 4E,False Ocean,1,False,False,False,,1.0,0,B1003,-120.610829,34.632093,0
+5,2013-12-03,Falcon 9,3170.0,GTO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B1004,-80.577366,28.5618571,0
+6,2014-01-06,Falcon 9,3325.0,GTO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B1005,-80.577366,28.5618571,0
+7,2014-04-18,Falcon 9,2296.0,ISS,CCAFS SLC 40,True Ocean,1,False,False,True,,1.0,0,B1006,-80.577366,28.5618571,1
+8,2014-07-14,Falcon 9,1316.0,LEO,CCAFS SLC 40,True Ocean,1,False,False,True,,1.0,0,B1007,-80.577366,28.5618571,1
+9,2014-08-05,Falcon 9,4535.0,GTO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B1008,-80.577366,28.5618571,0
+10,2014-09-07,Falcon 9,4428.0,GTO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B1011,-80.577366,28.5618571,0
+11,2014-09-21,Falcon 9,2216.0,ISS,CCAFS SLC 40,False Ocean,1,False,False,False,,1.0,0,B1010,-80.577366,28.5618571,0
+12,2015-01-10,Falcon 9,2395.0,ISS,CCAFS SLC 40,False ASDS,1,True,False,True,5e9e3032383ecb761634e7cb,1.0,0,B1012,-80.577366,28.5618571,0
+13,2015-02-11,Falcon 9,570.0,ES-L1,CCAFS SLC 40,True Ocean,1,True,False,True,,1.0,0,B1013,-80.577366,28.5618571,1
+14,2015-04-14,Falcon 9,1898.0,ISS,CCAFS SLC 40,False ASDS,1,True,False,True,5e9e3032383ecb761634e7cb,1.0,0,B1015,-80.577366,28.5618571,0
+15,2015-04-27,Falcon 9,4707.0,GTO,CCAFS SLC 40,None None,1,False,False,False,,1.0,0,B1016,-80.577366,28.5618571,0
+16,2015-06-28,Falcon 9,2477.0,ISS,CCAFS SLC 40,None ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,1.0,0,B1018,-80.577366,28.5618571,0
+17,2015-12-22,Falcon 9,2034.0,LEO,CCAFS SLC 40,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,1.0,0,B1019,-80.577366,28.5618571,1
+18,2016-01-17,Falcon 9,553.0,PO,VAFB SLC 4E,False ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,1.0,0,B1017,-120.610829,34.632093,0
+19,2016-03-04,Falcon 9,5271.0,GTO,CCAFS SLC 40,False ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,1.0,0,B1020,-80.577366,28.5618571,0
+20,2016-04-08,Falcon 9,3136.0,ISS,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,2.0,1,B1021,-80.577366,28.5618571,1
+21,2016-05-06,Falcon 9,4696.0,GTO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,2.0,0,B1022,-80.577366,28.5618571,1
+22,2016-05-27,Falcon 9,3100.0,GTO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,2.0,1,B1023,-80.577366,28.5618571,1
+23,2016-07-18,Falcon 9,2257.0,ISS,CCAFS SLC 40,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,2.0,1,B1025,-80.577366,28.5618571,1
+24,2016-08-14,Falcon 9,4600.0,GTO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,2.0,0,B1026,-80.577366,28.5618571,1
+25,2016-09-01,Falcon 9,5500.0,GTO,CCAFS SLC 40,None ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,3.0,0,B1028,-80.577366,28.5618571,0
+26,2017-01-14,Falcon 9,9600.0,PO,VAFB SLC 4E,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,3.0,1,B1029,-120.610829,34.632093,1
+27,2017-02-19,Falcon 9,2490.0,ISS,KSC LC 39A,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,3.0,1,B1031,-80.6039558,28.6080585,1
+28,2017-03-16,Falcon 9,5600.0,GTO,KSC LC 39A,None None,1,False,False,False,,3.0,0,B1030,-80.6039558,28.6080585,0
+29,2017-03-30,Falcon 9,5300.0,GTO,KSC LC 39A,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,2.0,1,B1021,-80.6039558,28.6080585,1
+30,2017-05-01,Falcon 9,6104.959411764706,LEO,KSC LC 39A,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,3.0,1,B1032,-80.6039558,28.6080585,1
+31,2017-05-15,Falcon 9,6070.0,GTO,KSC LC 39A,None None,1,False,False,False,,3.0,0,B1034,-80.6039558,28.6080585,0
+32,2017-06-03,Falcon 9,2708.0,ISS,KSC LC 39A,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,3.0,1,B1035,-80.6039558,28.6080585,1
+33,2017-06-23,Falcon 9,3669.0,GTO,KSC LC 39A,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,3.0,1,B1029,-80.6039558,28.6080585,1
+34,2017-06-25,Falcon 9,9600.0,PO,VAFB SLC 4E,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,3.0,1,B1036,-120.610829,34.632093,1
+35,2017-07-05,Falcon 9,6761.0,GTO,KSC LC 39A,None None,1,False,False,False,,3.0,0,B1037,-80.6039558,28.6080585,0
+36,2017-08-14,Falcon 9,2910.0,ISS,KSC LC 39A,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,4.0,1,B1039,-80.6039558,28.6080585,1
+37,2017-08-24,Falcon 9,475.0,SSO,VAFB SLC 4E,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,3.0,1,B1038,-120.610829,34.632093,1
+38,2017-09-07,Falcon 9,4990.0,LEO,KSC LC 39A,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,4.0,1,B1040,-80.6039558,28.6080585,1
+39,2017-10-09,Falcon 9,9600.0,PO,VAFB SLC 4E,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,4.0,1,B1041,-120.610829,34.632093,1
+40,2017-10-11,Falcon 9,5200.0,GTO,KSC LC 39A,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,3.0,1,B1031,-80.6039558,28.6080585,1
+41,2017-10-30,Falcon 9,3700.0,GTO,KSC LC 39A,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,4.0,0,B1042,-80.6039558,28.6080585,1
+42,2017-12-15,Falcon 9,2205.0,ISS,CCAFS SLC 40,True RTLS,2,True,True,True,5e9e3032383ecb267a34e7c7,3.0,1,B1035,-80.577366,28.5618571,1
+43,2017-12-23,Falcon 9,9600.0,PO,VAFB SLC 4E,True Ocean,2,True,True,False,,3.0,1,B1036,-120.610829,34.632093,1
+44,2018-01-08,Falcon 9,6104.959411764706,LEO,CCAFS SLC 40,True RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,4.0,1,B1043,-80.577366,28.5618571,1
+45,2018-01-31,Falcon 9,4230.0,GTO,CCAFS SLC 40,True Ocean,2,True,True,True,,3.0,1,B1032,-80.577366,28.5618571,1
+46,2018-03-06,Falcon 9,6092.0,GTO,CCAFS SLC 40,None None,1,True,False,True,,4.0,0,B1044,-80.577366,28.5618571,0
+47,2018-03-30,Falcon 9,9600.0,PO,VAFB SLC 4E,None None,2,True,True,True,,4.0,1,B1041,-120.610829,34.632093,0
+48,2018-04-02,Falcon 9,2760.0,ISS,CCAFS SLC 40,None None,2,True,True,True,,4.0,1,B1039,-80.577366,28.5618571,0
+49,2018-04-18,Falcon 9,350.0,HEO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,4.0,1,B1045,-80.577366,28.5618571,1
+50,2018-05-11,Falcon 9,3750.0,GTO,KSC LC 39A,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1046,-80.6039558,28.6080585,1
+51,2018-06-04,Falcon 9,5383.85,GTO,CCAFS SLC 40,None None,2,False,True,False,,4.0,1,B1040,-80.577366,28.5618571,0
+52,2018-06-29,Falcon 9,2410.0,ISS,CCAFS SLC 40,None None,2,False,True,False,,4.0,1,B1045,-80.577366,28.5618571,0
+53,2018-07-22,Falcon 9,7076.0,GTO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,2,B1047,-80.577366,28.5618571,1
+54,2018-07-25,Falcon 9,9600.0,PO,VAFB SLC 4E,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,5.0,4,B1048,-120.610829,34.632093,1
+55,2018-08-07,Falcon 9,5800.0,GTO,CCAFS SLC 40,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1046,-80.577366,28.5618571,1
+56,2018-09-10,Falcon 9,7060.0,GTO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1049,-80.577366,28.5618571,1
+57,2018-10-08,Falcon 9,2800.0,SSO,VAFB SLC 4E,True RTLS,2,True,True,True,5e9e3032383ecb554034e7c9,5.0,4,B1048,-120.610829,34.632093,1
+58,2018-11-15,Falcon 9,3000.0,GTO,KSC LC 39A,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,2,B1047,-80.6039558,28.6080585,1
+59,2018-12-03,Falcon 9,4000.0,SSO,VAFB SLC 4E,True ASDS,3,True,True,True,5e9e3033383ecbb9e534e7cc,5.0,3,B1046,-120.610829,34.632093,1
+60,2018-12-05,Falcon 9,2573.0,ISS,CCAFS SLC 40,False RTLS,1,True,False,True,5e9e3032383ecb267a34e7c7,5.0,0,B1050,-80.577366,28.5618571,0
+61,2018-12-23,Falcon 9,4400.0,MEO,CCAFS SLC 40,None None,1,False,False,False,,5.0,0,B1054,-80.577366,28.5618571,0
+62,2019-01-11,Falcon 9,9600.0,PO,VAFB SLC 4E,True ASDS,2,True,True,True,5e9e3033383ecbb9e534e7cc,5.0,5,B1049,-120.610829,34.632093,1
+63,2019-03-02,Falcon 9,12259.0,ISS,KSC LC 39A,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1051,-80.6039558,28.6080585,1
+64,2019-05-04,Falcon 9,2482.0,ISS,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1056,-80.577366,28.5618571,1
+65,2019-05-24,Falcon 9,13620.0,VLEO,CCAFS SLC 40,True ASDS,3,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1049,-80.577366,28.5618571,1
+66,2019-06-12,Falcon 9,1425.0,SSO,VAFB SLC 4E,True RTLS,2,True,True,True,5e9e3032383ecb554034e7c9,5.0,5,B1051,-120.610829,34.632093,1
+67,2019-07-25,Falcon 9,2227.7,ISS,CCAFS SLC 40,True RTLS,2,True,True,True,5e9e3032383ecb267a34e7c7,5.0,3,B1056,-80.577366,28.5618571,1
+68,2019-08-06,Falcon 9,6500.0,GTO,CCAFS SLC 40,None None,3,False,True,False,,5.0,2,B1047,-80.577366,28.5618571,0
+69,2019-11-11,Falcon 9,15600.0,VLEO,CCAFS SLC 40,True ASDS,4,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,4,B1048,-80.577366,28.5618571,1
+70,2019-12-05,Falcon 9,5000.0,ISS,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1059,-80.577366,28.5618571,1
+71,2019-12-17,Falcon 9,6800.0,GTO,CCAFS SLC 40,True ASDS,3,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1056,-80.577366,28.5618571,1
+72,2020-01-07,Falcon 9,15400.0,VLEO,CCAFS SLC 40,True ASDS,4,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1049,-80.577366,28.5618571,1
+73,2020-01-19,Falcon 9,6104.959411764706,SO,KSC LC 39A,None None,4,False,True,False,,5.0,3,B1046,-80.6039558,28.6080585,0
+74,2020-01-29,Falcon 9,15600.0,VLEO,CCAFS SLC 40,True ASDS,3,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1051,-80.577366,28.5618571,1
+75,2020-02-17,Falcon 9,15400.0,VLEO,CCAFS SLC 40,False ASDS,4,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1056,-80.577366,28.5618571,0
+76,2020-03-07,Falcon 9,1977.0,ISS,CCAFS SLC 40,True RTLS,2,True,True,True,5e9e3032383ecb267a34e7c7,5.0,3,B1059,-80.577366,28.5618571,1
+77,2020-03-18,Falcon 9,15600.0,VLEO,KSC LC 39A,False ASDS,5,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,4,B1048,-80.6039558,28.6080585,0
+78,2020-04-22,Falcon 9,15400.0,VLEO,KSC LC 39A,True ASDS,4,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1051,-80.6039558,28.6080585,1
+79,2020-05-30,Falcon 9,9525.0,ISS,KSC LC 39A,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,2,B1058,-80.6039558,28.6080585,1
+80,2020-06-04,Falcon 9,15400.0,VLEO,CCAFS SLC 40,True ASDS,5,True,True,True,5e9e3033383ecbb9e534e7cc,5.0,5,B1049,-80.577366,28.5618571,1
+81,2020-06-13,Falcon 9,15400.0,VLEO,CCAFS SLC 40,True ASDS,3,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,3,B1059,-80.577366,28.5618571,1
+82,2020-06-30,Falcon 9,3880.0,MEO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3033383ecbb9e534e7cc,5.0,2,B1060,-80.577366,28.5618571,1
+83,2020-07-20,Falcon 9,6104.959411764706,GEO,CCAFS SLC 40,True ASDS,2,True,True,True,5e9e3033383ecbb9e534e7cc,5.0,2,B1058,-80.577366,28.5618571,1
+84,2020-08-18,Falcon 9,15400.0,VLEO,CCAFS SLC 40,True ASDS,6,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1049,-80.577366,28.5618571,1
+85,2020-08-30,Falcon 9,1600.0,SSO,CCAFS SLC 40,True RTLS,4,True,True,True,5e9e3032383ecb267a34e7c7,5.0,3,B1059,-80.577366,28.5618571,1
+86,2020-09-03,Falcon 9,15400.0,VLEO,KSC LC 39A,True ASDS,2,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,2,B1060,-80.6039558,28.6080585,1
+87,2020-10-06,Falcon 9,15400.0,VLEO,KSC LC 39A,True ASDS,3,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,2,B1058,-80.6039558,28.6080585,1
+88,2020-10-18,Falcon 9,15400.0,VLEO,KSC LC 39A,True ASDS,6,True,True,True,5e9e3032383ecb6bb234e7ca,5.0,5,B1051,-80.6039558,28.6080585,1
+89,2020-10-24,Falcon 9,15400.0,VLEO,CCAFS SLC 40,True ASDS,3,True,True,True,5e9e3033383ecbb9e534e7cc,5.0,2,B1060,-80.577366,28.5618571,1
+90,2020-11-05,Falcon 9,3681.0,MEO,CCAFS SLC 40,True ASDS,1,True,False,True,5e9e3032383ecb6bb234e7ca,5.0,0,B1062,-80.577366,28.5618571,1
